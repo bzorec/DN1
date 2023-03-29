@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 
 namespace ConsoleApplication
 {
@@ -21,6 +22,7 @@ namespace ConsoleApplication
             }
 
             string[] inputNumbers = File.ReadAllText(inputFilePath).Split(' ');
+            byte[] numbers = inputNumbers.Select(byte.Parse).ToArray();
         }
     }
 }
