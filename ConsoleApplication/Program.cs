@@ -23,8 +23,11 @@ namespace ConsoleApplication
 
             string[] inputNumbers = File.ReadAllText(inputFilePath).Split(' ');
             byte[] numbers = inputNumbers.Select(byte.Parse).ToArray();
-            
+
             byte[] sortedNumbers = RadixSort(numbers);
+
+            File.WriteAllText("out.txt", string.Join(" ", sortedNumbers));
+            Console.WriteLine("Sorted numbers written to out.txt.");
         }
 
         static byte[] RadixSort(byte[] input)
