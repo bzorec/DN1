@@ -1,0 +1,717 @@
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+:...skipping...
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+(END)...skipping...
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+7cd1c2b (HEAD ->
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD,
+
+
+
+
+
+                                                             dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+←[1m~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+75ff9e1 HEAD@{27}: clone: from https://gi
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{0}: rebase (finish): returning to refs/heads/main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{1}: rebase (start): checkout dev
+423a416 HEAD@{2}: checkout: moving from dev to main
+7cd1c2b (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev) HEAD@{3}: commit: cleanup
+423a416 HEAD@{4}: merge main: Fast-forward
+0640d06 (origin/radix_sort, radix_sort) HEAD@{5}: checkout: moving from main to dev
+423a416 HEAD@{6}: merge dev: Merge made by the 'ort' strategy.
+75ff9e1 HEAD@{7}: checkout: moving from main to main
+75ff9e1 HEAD@{8}: checkout: moving from dev to main
+0640d06 (origin/radix_sort, radix_sort) HEAD@{9}: merge radix_sort: Fast-forward
+75ff9e1 HEAD@{10}: checkout: moving from radix_sort to dev
+0640d06 (origin/radix_sort, radix_sort) HEAD@{11}: commit: added test in.txt file finished testing
+8564541 HEAD@{12}: commit: added console log for output
+f6f666a HEAD@{13}: commit: added sorting to main
+d521edb HEAD@{14}: commit: added radix sort method
+7ec299e HEAD@{15}: commit: added parsing for text to int
+21d012d HEAD@{16}: commit: file read input numbers
+e0aa173 HEAD@{17}: commit: added file input check
+4191fdd HEAD@{18}: commit: added args check
+4234aac HEAD@{19}: commit: .gitignore .idea
+4e5a910 HEAD@{20}: commit: .gitignore obj
+9e32fc3 HEAD@{21}: commit: .gitignore .idea
+37e64a2 HEAD@{22}: commit: Hello world
+75ff9e1 HEAD@{23}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{24}: checkout: moving from radix_sort to dev
+75ff9e1 HEAD@{25}: checkout: moving from dev to radix_sort
+75ff9e1 HEAD@{26}: checkout: moving from main to dev
+75ff9e1 HEAD@{27}: clone: from https://github.com/bzorec/DN1.git
+~
+~
+~
+~
+~
+~
+
+D:\Repository_um\DN1>git log
+commit 7cd1c2bfb2d222d28b7e982fb288c3b4aee542b1 (HEAD -> main, origin/main, origin/dev, origin/HEAD, dev)
+Author: Blaz Zorec <blaz.zorec@endava.com>
+Date:   Wed Mar 29 14:11:40 2023 +0200
+
+    cleanup
+
+commit 423a4169ae52ef047ad112917b550ca0ddd4f564
+Merge: 75ff9e1 0640d06
+Author: Blaz Zorec <blaz.zorec@endava.com>
+Date:   Wed Mar 29 14:04:05 2023 +0200
+
+    Merge branch 'dev'
+
+commit 0640d0683d6b5742b545be2ca57d09dc073cf7c8 (origin/radix_sort, radix_sort)
+Author: Blaz Zorec <blaz.zorec@endava.com>
+Date:   Wed Mar 29 13:53:44 2023 +0200
+
+    added test in.txt file finished testing
+
+commit 85645414202295d501695873ee08283397bfffa0
+Author: Blaz Zorec <blaz.zorec@endava.com>
+Date:   Wed Mar 29 13:50:36 2023 +0200
+
+    added console log for output
+
+commit f6f666a19abe37389c33c7d33876216dad309bda
+Author: Blaz Zorec <blaz.zorec@endava.com>
+Date:   Wed Mar 29 13:50:06 2023 +0200
+
+    added sorting to main
+
+commit d521edb257e800caf39f509353c145ec7b2b106f
+Author: Blaz Zorec <blaz.zorec@endava.com>
+Date:   Wed Mar 29 13:49:19 2023 +0200
