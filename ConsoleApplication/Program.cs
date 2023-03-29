@@ -10,7 +10,7 @@ namespace ConsoleApplication
         {
             if (args.Length != 1)
             {
-                Console.WriteLine("Usage: dn1 <input_file>");
+                Console.WriteLine("Usage: dn1.exe <input_file>");
                 return;
             }
 
