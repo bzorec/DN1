@@ -24,5 +24,34 @@ namespace ConsoleApplication
             string[] inputNumbers = File.ReadAllText(inputFilePath).Split(' ');
             byte[] numbers = inputNumbers.Select(byte.Parse).ToArray();
         }
+
+        static byte[] RadixSort(byte[] input)
+        {
+            byte[] numbers = (byte[]) input.Clone();
+
+            for (int k = 0; k < 8; k++)
+            {
+                int[] counts = new int[2];
+                byte[] output = new byte[numbers.Length];
+
+                foreach (byte number in numbers)
+                {
+                    byte bit = (byte) ((number >> k) & 1);
+                    counts[bit]++;
+                }
+
+                counts[1] += counts[0];
+
+                for (int i = numbers.Length - 1; i >= 0; i--)
+                {
+                    byte bit = (byte) ((numbers[i] >> k) & 1);
+                    output[--counts[bit]] = numbers[i];
+                }
+
+                numbers = output;
+            }
+
+            return numbers;
+        }
     }
 }
